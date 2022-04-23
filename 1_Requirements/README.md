@@ -40,9 +40,9 @@
 
 
 ## 5W's & 1H
-* 1)	Who –  By Stephen J
+* 1)	Who –  By Avishek Kumar Mandal
 * 2)	When – before 24/04/2022
 * 3)	Where – Internship 
-* 4)	What – Traffic light System with Pedestrian Crossing
-* 5)	Why – The interface is user-friendly and simple to navigate
+* 4)	What – Traffic light System
+* 5)	Why – The interface is user-friendly and easy to use
 * 6)	How – with the help of VS code and SimulIDE
